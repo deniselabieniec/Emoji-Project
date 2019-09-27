@@ -1,5 +1,5 @@
 //here is where you would declare your variables and initialize them
-//right below this comment and before you start the setup loop
+//place them right below this comment and before you start the setup loop
 
 
 void setup()       //sets up the screen size and background
@@ -13,11 +13,11 @@ void setup()       //sets up the screen size and background
  
  {
  
- //place your drawing code here
+ //place your drawing code here, between the curly brackets
  //you should have an emoji that you build from ellipses, lines, rectangles, triangles and arcs
- //then add if-statements and keyboard controls to make it change in some way (like grow a unicorn horn, blink its eyes or change its color)
+ //then add if-statements for keyboard controls to make it change in some way (like grow a unicorn horn, blink its eyes or change its color)
  //use the fill command to change the color of the sphapes that come after it
- //you can use if statements to change color variables, or to only draw certain shapes, like a unicorn horn,  if a key is pressed
+ //you can use if statements to change color variables, or to only draw certain shapes, like a unicorn horn, if a key is pressed
  //all of this goes in the draw loop
  
  }
