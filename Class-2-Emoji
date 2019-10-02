@@ -1,7 +1,7 @@
-//here is where you would declare your variables and initialize them
-//place them right below this comment and before you start the setup loop
-//first I'd start by skipping this part and just drawing the emoji
-//then you can include variables and if-statements later
+//Step 1: fill in the setup() loop with the size and background
+//Step 2: use shapes and fill commands like we did for the bunny to create your own emoji!  
+//Step 3: once you have a basic emoji built, add some if-statements whick will allow the emoji to change when a key is pressed
+//Step 4: for an added challenge, use variables to make your code more efficient
 
 
 void setup()       //sets up the screen size and background
