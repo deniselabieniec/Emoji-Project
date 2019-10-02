@@ -1,10 +1,13 @@
 //here is where you would declare your variables and initialize them
 //place them right below this comment and before you start the setup loop
+//first I'd start by skipping this part and just drawing the emoji
+//then you can include variables and if-statements later
 
 
 void setup()       //sets up the screen size and background
  {
  
+ //if you set the size to be 400,500 you can use the extra sheets of graph paper to sketch things out
  
  }
  
